@@ -7,5 +7,5 @@ Egyszerûen és hatékonyan tudjanak dolgozni az alkalmazottak.
 
 
 2. Jelenlegi helyzet leírása
-Jelenleg mindent papíron jegyzünk, és fejben.
+Jelenleg mindent papíron jegyzünk és fejben.
 
