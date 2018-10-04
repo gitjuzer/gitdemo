@@ -1,6 +1,7 @@
 Afpdemoproj
 
 1. Áttekintés
+Létre kell hozni egy nagyon jó weboldalt, hogy nagyon jó legyen minden.
 
 2. Jelenlegi helyzet
 Weboldal hiányában weboldal nélkül tesszük a dolgunkat, nagyon nehezen.
