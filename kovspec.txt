@@ -7,6 +7,7 @@ Létre kell hozni egy nagyon jó weboldalt, hogy nagyon jó legyen minden.
 Weboldal hiányában weboldal nélkül tesszük a dolgunkat, nagyon nehezen.
 
 3. Funkcionális követelmények
+Tudjon a rendszer minden fontosat.
 
 4. Technikai követelmények
 
